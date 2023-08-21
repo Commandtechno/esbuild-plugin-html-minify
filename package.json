@@ -1,11 +1,11 @@
 {
-  "name": "esbuild-plugin-minify-html",
+  "name": "esbuild-plugin-html-minify",
   "version": "1.0.0",
   "description": "Simply minifies HTML files",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Commandtechno/esbuild-plugin-minify-html.git"
+    "url": "git+https://github.com/Commandtechno/esbuild-plugin-html-minify.git"
   },
   "keywords": [
     "esbuild",
@@ -14,15 +14,15 @@
     "esbuild-plugin",
     "esbuild-html",
     "esbuild-plugin-html",
-    "esbuild-minify-html",
-    "esbuild-plugin-minify-html"
+    "esbuild-html-minify",
+    "esbuild-plugin-html-minify"
   ],
   "author": "Commandtechno",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Commandtechno/esbuild-plugin-minify-html/issues"
+    "url": "https://github.com/Commandtechno/esbuild-plugin-html-minify/issues"
   },
-  "homepage": "https://github.com/Commandtechno/esbuild-plugin-minify-html#readme",
+  "homepage": "https://github.com/Commandtechno/esbuild-plugin-html-minify#readme",
   "devDependencies": {
     "@types/node": "^18.7.14",
     "esbuild": "^0.15.6"

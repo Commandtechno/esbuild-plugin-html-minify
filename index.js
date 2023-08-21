@@ -10,7 +10,7 @@ const htmlnano = require("htmlnano");
  * @return {import('esbuild').Plugin}
  */
 module.exports = (plugins, options) => ({
-  name: "esbuild-plugin-minify-html",
+  name: "esbuild-plugin-html-minify",
   setup(ctx) {
     const nano = htmlnano({
       minifyCss: false,
